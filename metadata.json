@@ -1,0 +1,6 @@
+{
+  "name": "ValueDesk — On-Chain Finance OS",
+  "description": "One-person on-chain finance business powered by SoSoValue SSI indexes, SoDEX orderbooks, ValueChain L1 settlement, and agentic AI execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
